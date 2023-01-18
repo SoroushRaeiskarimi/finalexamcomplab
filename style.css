@@ -57,3 +57,46 @@ input:hover{
     margin-top: 40px;
     size: 5px;
 }
+
+.text4{
+    font-family: "Lucida Sans Regular";
+    color: white;
+    margin-left: 30px;   
+    margin-top: 40px;
+    size: 5px;
+}
+
+.add,
+.minus{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: rgba(170, 157, 255, 1);
+    border: 0px;
+}
+
+.add:hover,
+.minus:hover{
+    cursor: pointer;
+    background-color: rgb(196, 187, 252);
+}
+
+.no1{
+    color: white;
+    font-family: "Lucida Sans Regular";
+}
+
+ul{
+    margin-left: -5px;
+    padding-top: 12px;
+}
+
+li{
+    display: inline;
+}
+
+.no2{
+    color: white;
+    font-family: "Lucida Sans Regular";
+    margin-left: 160px;
+}
