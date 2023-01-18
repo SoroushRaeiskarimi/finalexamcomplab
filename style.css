@@ -50,6 +50,10 @@ input:hover{
     background-color: rgba(170, 157, 255, 0.429);
 }
 
+input::placeholder{
+    padding-left: 7px;
+}
+
 .text3{
     font-family: "Lucida Sans Regular";
     color: white;
@@ -98,5 +102,5 @@ li{
 .no2{
     color: white;
     font-family: "Lucida Sans Regular";
-    margin-left: 160px;
+    margin-left: 155px;
 }
